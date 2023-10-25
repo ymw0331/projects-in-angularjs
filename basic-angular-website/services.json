@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Hardware Repair",
+        "description": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "image": "https://i.ibb.co/0j2QY0L/repair.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Virus Removal",
+        "description": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "image": "https://i.ibb.co/0j2QY0L/repair.jpg"
+    },
+    {
+        "id": 3,
+        "name": "System Tuneup",
+        "description": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "image": "https://i.ibb.co/0j2QY0L/repair.jpg"
+    }
+]
